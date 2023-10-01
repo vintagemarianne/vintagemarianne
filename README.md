@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamhdr&show_icons=true&count_private=true&include_all_commits=true&theme=bear" />
-</p>
+![GiHub Stats](https://github-readme-stats.vercel.app/api?username=maryamhdr&show_icons=true&count_private=true&theme=tokyonight "GitHub Stats")
